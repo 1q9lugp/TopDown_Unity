@@ -1,1 +1,1 @@
-# Build je v realease hned prvy zip
+# Build je v Releases hned prvy zip
